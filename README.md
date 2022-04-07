@@ -54,3 +54,5 @@ Si te ves en la necesidad de contactar con nosotros, esta página tiene toda la 
 
 # Licencia y atribución
 Este Código de Conducta está basado en el impresionante trabajo del Open Source Bridge, pero sustituido con nuestra información del evento. El original está disponible en opensourcebridge.org y está liberado bajo una Licencia de Creative Commons Attribution-ShareAlike.
+
+#### Fecha de Actualización: 07 de abril de 2022
