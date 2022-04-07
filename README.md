@@ -1,12 +1,11 @@
 # Codigo de Conducta
+Código de conducta para la Comunidad de Second Terra
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-Código de conducta para la Comunidad de Second Terra
-
-# Propósito
+#H1 Propósito
 La Comunidad Second Terra cree en una comunidad abierta a todo el mundo. Como tal, estamos comprometidos a proporcionar un ambiente amigable, seguro y acogedor para todos independientemente de su sexo, orientación sexual, discapacidad, etnia, religión, sistema operativo preferido, lenguaje de programación o editor de texto.
 
 Este código de conducta resume nuestras expectativas para el comportamiento de los participantes, así como las consecuencias para el comportamiento inaceptable.
