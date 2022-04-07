@@ -48,9 +48,9 @@ We expect all Second Terra participants (sponsors, volunteers, speakers, attende
 
 # Contact Information
 If you find yourself needing to contact us, this page has all the necessary information.
-- :blue_heart: [Discord](https://m.me/J71535)
+- :blue_heart: [Discord](https://discord.gg/6XKkCBmS2x) 
 
 # License and Attribution
-Este Código de Conducta está basado en el impresionante trabajo del Open Source Bridge, pero sustituido con nuestra información del evento. El original está disponible en [opensourcebridge](https://opensource.com/tags/open-source-bridge) 
+This Code of Conduct is based on the impressive work of the Open Source Bridge, but superseded with our information from the event. The original is available at [opensourcebridge](https://opensource.com/tags/open-source-bridge) 
 
 #### :calendar: Update Date: April 07, 2022
