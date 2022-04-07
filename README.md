@@ -1,5 +1,5 @@
 # Code of Conduct
-Code of Conduct for the Second Terra Community
+Code of Conduct for the Second Terra Community :cop:
 
 ![](https://i.ibb.co/Bgfnmf0/Second-Terra2.png)
 
