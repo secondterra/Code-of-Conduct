@@ -1,58 +1,56 @@
-# Codigo de Conducta
-Código de conducta para la Comunidad de Second Terra
+# Code of Conduct
+Code of Conduct for the Second Terra Community
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://i.ibb.co/Bgfnmf0/Second-Terra2.png)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+# Purpose
+The Second Terra Community believes in a community open to everyone. As such, we are committed to providing a friendly, safe, and welcoming environment for everyone regardless of gender, sexual orientation, disability, ethnicity, religion, preferred operating system, programming language, or text editor.
 
-# Propósito
-La Comunidad Second Terra cree en una comunidad abierta a todo el mundo. Como tal, estamos comprometidos a proporcionar un ambiente amigable, seguro y acogedor para todos independientemente de su sexo, orientación sexual, discapacidad, etnia, religión, sistema operativo preferido, lenguaje de programación o editor de texto.
+This code of conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.
 
-Este código de conducta resume nuestras expectativas para el comportamiento de los participantes, así como las consecuencias para el comportamiento inaceptable.
-
-Instamos a todos los patrocinadores, voluntarios, ponentes, asistentes y otros participantes para ayudar a tener una experiencia de evento segura y agradable para todos.
+We urge all sponsors, volunteers, speakers, attendees, and other participants to help make the event experience safe and enjoyable for all.
 
 # Open Source Citizenship
-Un objetivo adicional de este código de conducta es incrementar la ciudadanía de código abierto alentando a los participantes a reconocer y fortalecer las relaciones entre lo que hacemos y la comunidad en general.
+An additional goal of this code of conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between what we do and the wider community.
 
-En el servicio de este objetivo, Second Terra recogerá candidaturas de ciudadanos ejemplares a lo largo de todo el evento y reconocerán selectos participantes después de la conferencia en el sitio web.
+In service of this goal, Second Terra will collect nominations from exemplary citizens throughout development and publicly recognize selected entrants on the website.
 
-Si ves a alguien que está haciendo un esfuerzo extra para asegurar que nuestra comunidad resulte acogedora, amable, y que anima a todos los participantes a contribuir en la mayor medida posible, lo queremos saber.
+If you see someone who goes the extra mile to ensure our community is welcoming, friendly, and encourages everyone to contribute as much as possible, we want to hear about it.
 
-Puedes nominar a alguien en la mesa de registro o diciéndolo a algún miembro de la organización.
+You can nominate someone on our channels or by contacting a member of the organization.
 
-# Comportamiento esperado
+# Expected Behavior
+- Be considerate, respectful and collaborative.
+- Refrain from demeaning, discriminatory, or harassing behavior and speech.
+- Be aware of your surroundings and your fellow participants. Alert the organizers if you see a dangerous situation or someone in distress.
+- Participate in an authentic and active way. By doing so, you are helping to make Second Terra a reality.
 
-Ser considerado, respetuoso y colaborativo.
-Abstenerse de comportamientos y discursos degradantes, discriminatorios o de acoso.
-Ser consciente del entorno y de tus compañeros participantes. Alerta a los organizadores si observas una situación peligrosa o alguien en apuros.
-Participa de una manera auténtica y activa. Al hacerlo, estás ayudando a que Second Terra sea una realidad.
+# Unacceptable Behavior
+Unacceptable behaviors include: bullying, harassing, abusive, discriminatory, derogatory or demeaning conduct by anyone in the Second Terra Community and related events. The place where Second Terra events take place is public and can be shared with other visitors; please, be respectful with all visitors to this place and with the environment itself.
 
-# Comportamiento inaceptable
-Como comportamientos inaceptables se incluyen: intimidatorio, acosador, abusivo, conducta discriminatoria, despectiva o degradante por cualquiera en la Comunidad Second Terra de Ganollers y eventos relacionados. El lugar donde se realizan los eventos de Second Terra es público y puede ser compartido con otros visitantes; por favor, sé respetuoso con todos los visitantes de este lugar y con el propio entorno.
+#### Harassment includes: 
+Offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); willful intimidation, stalking or harassing with photography or recording; sustained interruption of talks and other events; inappropriate physical contact and unwanted sexual attention.
 
-#### El acoso incluye: 
-Comentarios verbales ofensivos relacionados con el género, la orientación sexual, la raza, la religión, la discapacidad; uso inadecuado de desnudez y/o imágenes sexuales en espacios públicos (incluyendo diapositivas de la presentación); intimidación deliberada, acecho o acosar con fotografía o grabación; interrupción sostenida de charlas y otros eventos; contacto físico inapropiado y atención sexual no deseada.
+# Consequences of Unacceptable Behavior
+Unacceptable behavior will not be tolerated whether by attendees, organizers, venue staff, sponsors.
 
-# Consecuencias de un comportamiento inaceptable
-El comportamiento inaceptable no será tolerado sea por los asistentes, organizadores, personal local, patrocinadores u otros patronos de lugares de WPGramenet.
+Anyone is expected to comply immediately if unacceptable behavior is brought to their attention.
 
-Se espera que cualquiera cumpla inmediatamente en caso de que se le llame a la atención por un comportamiento inaceptable.
+If a participant engages in unacceptable conduct, the organizers of second terra may take any action they deem appropriate, up to and including expulsion from Second Terra without notice or refund.
 
-Si un participante se involucra en una conducta inaceptable, los organizadores de la conferencia pueden tomar cualquier acción que consideren apropiada, inclusive la expulsión de la conferencia sin previo aviso o reembolso.
+# What to do if you witness or experience unacceptable behavior?
+If you are involved in unacceptable behavior, witness someone else engaging in such behavior, or have other concerns, please notify a Second Terra organizer as soon as possible.
 
-# ¿Qué hacer si eres testigo u objeto de un comportamiento inaceptable?
-Si estás involucrado en un comportamiento inaceptable, eres testigo de otra persona con dicho comportamiento o tienes otras preocupaciones, por favor notifícalo a un organizador de la conferencia tan pronto como sea posible.
+The Second Terra team will be available to help participants contact the local security team or offer any assistance to those experiencing unacceptable behaviour.
 
-El equipo de Second Terra estará disponible para ayudar a los participantes a ponerse en contacto con el equipo de seguridad local o para ofrecer cualquier tipo de ayuda a aquellos que experimentan un comportamiento inaceptable.
-
-# Ámbito de aplicación
-Esperamos que todos los participantes de la conferencia (patrocinadores, voluntarios, ponentes, asistentes y otros invitados) cumplan con el código de conducta en todas las salas de conferencias y eventos relacionados con la conferencia.
+# Area of application
+We expect all Second Terra participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by the code of conduct in all areas of Second Terra and project-related events.
 
 # Información de Contacto
-Si te ves en la necesidad de contactar con nosotros, esta página tiene toda la información necesaria.
+If you find yourself needing to contact us, this page has all the necessary information.
+:blue_heart: [Discord](https://m.me/J71535)
 
-# Licencia y atribución
-Este Código de Conducta está basado en el impresionante trabajo del Open Source Bridge, pero sustituido con nuestra información del evento. El original está disponible en opensourcebridge.org y está liberado bajo una Licencia de Creative Commons Attribution-ShareAlike.
+# License and Attribution
+Este Código de Conducta está basado en el impresionante trabajo del Open Source Bridge, pero sustituido con nuestra información del evento. El original está disponible en [opensourcebridge](https://opensource.com/tags/open-source-bridge) 
 
-#### Fecha de Actualización: 07 de abril de 2022
+#### :calendar: Update Date: April 07, 2022
