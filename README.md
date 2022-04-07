@@ -28,7 +28,7 @@ You can nominate someone on our channels or by contacting a member of the organi
 # Unacceptable Behavior
 Unacceptable behaviors include: bullying, harassing, abusive, discriminatory, derogatory or demeaning conduct by anyone in the Second Terra Community and related events. The place where Second Terra events take place is public and can be shared with other visitors; please, be respectful with all visitors to this place and with the environment itself.
 
-#### Harassment includes: 
+#### Harassment Includes: 
 Offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); willful intimidation, stalking or harassing with photography or recording; sustained interruption of talks and other events; inappropriate physical contact and unwanted sexual attention.
 
 # Consequences of Unacceptable Behavior
@@ -38,17 +38,17 @@ Anyone is expected to comply immediately if unacceptable behavior is brought to 
 
 If a participant engages in unacceptable conduct, the organizers of second terra may take any action they deem appropriate, up to and including expulsion from Second Terra without notice or refund.
 
-# What to do if you witness or experience unacceptable behavior?
+# What to do if you Witness or Experience Unacceptable behavior?
 If you are involved in unacceptable behavior, witness someone else engaging in such behavior, or have other concerns, please notify a Second Terra organizer as soon as possible.
 
 The Second Terra team will be available to help participants contact the local security team or offer any assistance to those experiencing unacceptable behaviour.
 
-# Area of application
+# Area of Application
 We expect all Second Terra participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by the code of conduct in all areas of Second Terra and project-related events.
 
-# Información de Contacto
+# Contact Information
 If you find yourself needing to contact us, this page has all the necessary information.
-:blue_heart: [Discord](https://m.me/J71535)
+- :blue_heart: [Discord](https://m.me/J71535)
 
 # License and Attribution
 Este Código de Conducta está basado en el impresionante trabajo del Open Source Bridge, pero sustituido con nuestra información del evento. El original está disponible en [opensourcebridge](https://opensource.com/tags/open-source-bridge) 
