@@ -31,7 +31,8 @@ Participa de una manera auténtica y activa. Al hacerlo, estás ayudando a que S
 # Comportamiento inaceptable
 Como comportamientos inaceptables se incluyen: intimidatorio, acosador, abusivo, conducta discriminatoria, despectiva o degradante por cualquiera en la Comunidad Second Terra de Ganollers y eventos relacionados. El lugar donde se realizan los eventos de Second Terra es público y puede ser compartido con otros visitantes; por favor, sé respetuoso con todos los visitantes de este lugar y con el propio entorno.
 
-#### El acoso incluye: Comentarios verbales ofensivos relacionados con el género, la orientación sexual, la raza, la religión, la discapacidad; uso inadecuado de desnudez y/o imágenes sexuales en espacios públicos (incluyendo diapositivas de la presentación); intimidación deliberada, acecho o acosar con fotografía o grabación; interrupción sostenida de charlas y otros eventos; contacto físico inapropiado y atención sexual no deseada.
+#### El acoso incluye: 
+Comentarios verbales ofensivos relacionados con el género, la orientación sexual, la raza, la religión, la discapacidad; uso inadecuado de desnudez y/o imágenes sexuales en espacios públicos (incluyendo diapositivas de la presentación); intimidación deliberada, acecho o acosar con fotografía o grabación; interrupción sostenida de charlas y otros eventos; contacto físico inapropiado y atención sexual no deseada.
 
 # Consecuencias de un comportamiento inaceptable
 El comportamiento inaceptable no será tolerado sea por los asistentes, organizadores, personal local, patrocinadores u otros patronos de lugares de WPGramenet.
